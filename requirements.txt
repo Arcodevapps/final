@@ -1,6 +1,6 @@
 Flask
 numpy
-onnxruntime==1.9.0
-Pillow==9.0.1
-requests==2.26.0
+onnxruntime
+Pillow
+requests
 Gunicorn
