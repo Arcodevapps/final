@@ -92,5 +92,3 @@ def predict():
 def hello():
     return "<h1>Model is ready for prediction</h1>"
 
-if __name__ == '__main__':
-    app.run(debug=True)
