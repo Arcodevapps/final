@@ -19,7 +19,7 @@ packaging==24.0
 pillow==10.3.0
 protobuf==5.27.0
 pyreadline3==3.4.1
-
+requests
 sympy==1.12.1
 urllib3==2.2.1
 Werkzeug==3.0.3
